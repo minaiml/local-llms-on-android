@@ -1,0 +1,13 @@
+{
+  "fork": "minaiml/local-llms-on-android",
+  "source": "dineshsoudagar/local-llms-on-android",
+  "source_url": "https://github.com/dineshsoudagar/local-llms-on-android",
+  "commit": "36b9a1a0f40e6d46137654532e6890617f28996f",
+  "branch": "main",
+  "fetched": "2026-09-19",
+  "upstream_license": "MIT",
+  "role": "phone app — Kotlin reference for LiteRT + ONNX Runtime inference on Android, with on-device tokenizers",
+  "note": "Forked at the commit below with its licence intact. Upstream is the source of truth; this fork is a pinned reference for the minaiml delivery catalogue.",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml"
+}
